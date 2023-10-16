@@ -8,6 +8,8 @@ This project draws inspiration from [Sentita](https://drive.google.com/file/d/1s
 You can install the package using `pip`:
 
 ```bash
+git clone https://github.com/Pinperepette/italian_sentiment.git
+
 cd path/to/italian_sentiment
 
 pip install .
