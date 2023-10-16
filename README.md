@@ -27,6 +27,7 @@ results = analyzer.predict_sentiment(sentences_to_analyze)
 for result in results:
     print(result)
 ```
+![Example](example.png)
 
 ##License
 
