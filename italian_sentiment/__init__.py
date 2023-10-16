@@ -71,3 +71,4 @@ class SentimentAnalyzer:
             }
             results.append(result)
         return results
+
