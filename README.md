@@ -38,4 +38,4 @@ for result in results:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-For more information and detailed usage instructions, please refer to the documentation.
+For more information and detailed usage instructions, please refer to the LICENSE file.
