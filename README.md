@@ -1,7 +1,6 @@
 Italian Sentiment is a Python package for sentiment analysis in Italian language.
 
-This project draws inspiration from [Sentita](https://drive.google.com/file/d/1s1BW3T_BysAhVZPai-3AUXpb68aYjQTS/view?usp=sharing).
-
+The installation process may take some time.
 
 ## Installation
 
